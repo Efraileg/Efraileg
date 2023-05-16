@@ -4,32 +4,23 @@
 
 Estudiante de ingeniería informática apasionado por la ciencia, la tecnología y la ingeniería. Mi objetivo principal es expandir mis habilidades y conocimientos en el campo, así como desarrollar soluciones innovadoras a través de la investigación y la programación.
 
-## Experiencia técnica
+## Experiencia técnica 💻
 
 - Lenguajes de programación: C, C++, Javascript, Python, Ensamblador, Java y Rust.
 - Experiencia en programación de sistemas, arquitectura de software y diseño de algoritmos eficientes.
 - Conocimientos intermedios en inglés y en constante mejora de mis habilidades lingüísticas.
 
-## 📊 Gráficos y Datos
+### Lenguajes de programación 🚀
 
-A continuación, se presentan algunos datos y gráficos que ilustran mi experiencia y conocimientos:
+![Lenguajes de programación](https://img.shields.io/badge/C-20%25-blue?style=for-the-badge&logo=c)
+![Lenguajes de programación](https://img.shields.io/badge/C++-15%25-blueviolet?style=for-the-badge&logo=c%2B%2B)
+![Lenguajes de programación](https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge&logo=javascript)
+![Lenguajes de programación](https://img.shields.io/badge/Python-20%25-brightgreen?style=for-the-badge&logo=python)
+![Lenguajes de programación](https://img.shields.io/badge/Ensamblador-5%25-orange?style=for-the-badge&logo=assembly)
+![Lenguajes de programación](https://img.shields.io/badge/Java-15%25-critical?style=for-the-badge&logo=java)
+![Lenguajes de programación](https://img.shields.io/badge/Rust-15%25-success?style=for-the-badge&logo=rust)
 
-### Lenguajes de programación
-
-![Lenguajes de programación](https://img.shields.io/badge/Lenguajes-C%20%7C%20C%2B%2B%20%7C%20Javascript%20%7C%20Python%20%7C%20Ensamblador%20%7C%20Java%20%7C%20Rust-blue)
-
-
-### Lenguajes de programación
-
-- C
-- C++
-- Javascript
-- Python
-- Ensamblador
-- Java
-- Rust
-
-### Nivel de dominio de idiomas
+### Nivel de dominio de idiomas 🌍
 
 - Inglés: Intermedio
 - Otros idiomas: Interés en aprender y mejorar mis habilidades lingüísticas.
