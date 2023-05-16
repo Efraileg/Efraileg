@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-¡Hola! Soy un ingeniero informático apasionado por la ciencia, la tecnología y la ingeniería. Mi objetivo principal es expandir mis habilidades y conocimientos en el campo, así como desarrollar soluciones innovadoras a través de la investigación y la programación.
+Estudiante de ingeniería informática apasionado por la ciencia, la tecnología y la ingeniería. Mi objetivo principal es expandir mis habilidades y conocimientos en el campo, así como desarrollar soluciones innovadoras a través de la investigación y la programación.
 
 ## Experiencia técnica
 
