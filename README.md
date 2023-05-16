@@ -29,14 +29,6 @@ A continuación, se presentan algunos datos y gráficos que ilustran mi experien
 - Inglés: Intermedio
 - Otros idiomas: Interés en aprender y mejorar mis habilidades lingüísticas.
 
-## Proyectos destacados
-
-Aquí tienes algunos proyectos destacados en los que he trabajado:
-
-1. Proyecto XYZ: Desarrollo de un sistema de gestión de inventario utilizando C++ y Python. Reduje el tiempo de seguimiento de inventario en un 30% y optimicé el rendimiento del sistema.
-2. Proyecto ABC: Implementación de un algoritmo de compresión de datos en C, reduciendo el tamaño de los archivos en un 50% sin pérdida de calidad.
-3. Proyecto DEF: Desarrollo de una aplicación web utilizando Javascript y React.js, mejorando la usabilidad y la experiencia del usuario.
-
 ## Contacto
 
 ¡Estoy siempre abierto a nuevas conexiones y colaboraciones! Si tienes alguna pregunta o si te gustaría discutir oportunidades de colaboración, no dudes en contactarme a través de los siguientes canales:
