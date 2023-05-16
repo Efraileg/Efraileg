@@ -10,9 +10,14 @@ Estudiante de ingeniería informática apasionado por la ciencia, la tecnología
 - Experiencia en programación de sistemas, arquitectura de software y diseño de algoritmos eficientes.
 - Conocimientos intermedios en inglés y en constante mejora de mis habilidades lingüísticas.
 
-## Gráficos y Datos
+## 📊 Gráficos y Datos
 
 A continuación, se presentan algunos datos y gráficos que ilustran mi experiencia y conocimientos:
+
+### Lenguajes de programación
+
+![Lenguajes de programación](https://img.shields.io/badge/Lenguajes-C%20%7C%20C%2B%2B%20%7C%20Javascript%20%7C%20Python%20%7C%20Ensamblador%20%7C%20Java%20%7C%20Rust-blue)
+
 
 ### Lenguajes de programación
 
