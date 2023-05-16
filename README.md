@@ -31,6 +31,4 @@ Estudiante de ingeniería informática apasionado por la ciencia, la tecnología
 
 - LinkedIn: [Eduardo Fraile González](https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/eduardo-fraile-gonzález-749361246/)
 
-¡Gracias por visitar mi perfil de GitHub! Espero poder colaborar contigo en futuros proyectos emocionantes.
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Efraileg&show_icons=true)](https://github.com/Efraileg)
