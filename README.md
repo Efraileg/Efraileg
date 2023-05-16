@@ -41,7 +41,6 @@ Aquí tienes algunos proyectos destacados en los que he trabajado:
 
 ¡Estoy siempre abierto a nuevas conexiones y colaboraciones! Si tienes alguna pregunta o si te gustaría discutir oportunidades de colaboración, no dudes en contactarme a través de los siguientes canales:
 
-- Email: [efraileg02@gmail.com](mailto:tuemail@example.com)
 - LinkedIn: [Eduardo Fraile González](https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/eduardo-fraile-gonzález-749361246/)
 
 ¡Gracias por visitar mi perfil de GitHub! Espero poder colaborar contigo en futuros proyectos emocionantes.
