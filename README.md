@@ -27,6 +27,6 @@ Estudiante de ingeniería informática apasionado por la ciencia, la tecnología
 
 ¡Estoy siempre abierto a nuevas conexiones y colaboraciones! Si tienes alguna pregunta o si te gustaría discutir oportunidades de colaboración, no dudes en contactarme a través de los siguientes canales:
 
-- LinkedIn: [Eduardo Fraile González](https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/eduardo-fraile-gonzález-749361246/)
+- LinkedIn: [Eduardo Fraile González](https://www.linkedin.com/in/eduardo-fraile-gonzález-749361246/)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Efraileg&show_icons=true)](https://github.com/Efraileg)
