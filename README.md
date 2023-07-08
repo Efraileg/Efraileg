@@ -13,9 +13,9 @@ Estudiante de ingeniería informática apasionado por la ciencia, la tecnología
 ### Lenguajes de programación 🚀
 
 ![Lenguajes de programación](https://img.shields.io/badge/C/C++-45%25-blueviolet?style=for-the-badge&logo=cplusplus)
-![Lenguajes de programación](https://img.shields.io/badge/Ensamblador-25%25-orange?style=for-the-badge&logo=assembly)
+![Lenguajes de programación](https://img.shields.io/badge/Python-25%25-orange?style=for-the-badge&logo=python)
 ![Lenguajes de programación](https://img.shields.io/badge/Javascript-20%25-critical?style=for-the-badge&logo=javascript)
-![Lenguajes de programación](https://img.shields.io/badge/Python-5%25-brightgreen?style=for-the-badge&logo=python)
+![Lenguajes de programación](https://img.shields.io/badge/Ensamblador-5%25-brightgreen?style=for-the-badge&logo=assembly)
 ![Lenguajes de programación](https://img.shields.io/badge/Rust-5%25-success?style=for-the-badge&logo=rust)
 
 ### Nivel de dominio de idiomas 🌍
